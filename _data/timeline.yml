@@ -1,0 +1,51 @@
+- title: Robodinamica
+  title-url: https://www.robodinamika.ru
+  date: May 2021 - Aug 2022
+  subtitle: Software Engineer
+  tags:
+    - tag: Python
+    - tag: Git
+    - tag: Software Testing
+    - tag: Linux
+  timeline-side: right
+
+- title: HackerOne
+  title-url: https://hackerone.com/
+  date: Jun 2019 Feb 2021
+  subtitle: Troubleshooter
+  tags:
+    - tag: Hacking
+    - tag: OSINT
+    - tag: Revers
+  timeline-side: left
+
+- title: Adonis
+  title-url: https://adonis.ru/(dont work)
+  date: Nov 2018 - Apr 2029
+  subtitle: Troubleshooter
+  tags:
+    - tag: Networking
+    - tag: Communications
+  timeline-side: right
+
+- title: Pojimport
+  title-url: https://01161.ru/
+  date: Oct 2009 Oct 2018
+  subtitle: Troubleshooter
+  tags:
+    - tag: Embed
+    - tag: ASM
+    - tag: IOT
+  timeline-side: left
+
+- title: Moscow State University
+  title-url: https:msu.ru/en
+  date: 2001-2003
+  subtitle: theoretical astrophysics
+  timeline-side: right
+
+- title: Platov South-Russian State Polytechnic University (NPI)
+  title-url: https://www.npi-tu.ru/
+  date: 2003-2006
+  subtitle: theoretical astrophysics
+  timeline-side: left

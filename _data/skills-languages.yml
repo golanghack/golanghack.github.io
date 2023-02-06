@@ -1,0 +1,23 @@
+- name: Python
+  weight: 5
+
+- name: JS
+  weight: 3
+
+- name: go
+  weight: 3
+
+- name: C
+  weight: 4
+
+- name: Ruby
+  weight: 2
+
+- name: HTML
+  weight: 5
+
+- name: CSS
+  weight: 4
+
+
+

@@ -1,0 +1,58 @@
+title: Golang Hack
+description: Golang Hack Personal Website
+baseurl: ""
+
+username: golanghack
+typing_text: Software Engineer
+
+email: golanghack@gmail.com
+telegram_username: neowhitehat
+github_username: golanghack
+
+show_aboutme_card: false
+about_me_title: About Me
+about_me_description: <empty>
+
+show_skills_card: true
+skills_title: Skills
+
+show_timeline_card: true
+timeline_title: Education & Experience
+cv_download_link: https://resume.io/
+
+show_projects_card: true
+show_projects: false
+projects_title: Work Projects
+show_os_projects: true
+os_projects_title: Portfolio Projects
+
+show_contact_card: true
+contact_title: Contacts
+contact_description: Feel free to contact me wherever is comfortable for you
+
+repository: golanghack/golanghack.github.io
+github_pages:
+  - sorting_algos
+  - character_encoder
+  - golanghack.github.io
+  
+projects:
+  sort_by: stars
+  exclude:
+    archived: true
+    forks: true
+    projects:
+      - golanghack
+
+plugins:
+  - "jekyll-github-metadata"
+
+exclude:
+  [
+    "_assets",
+    "Gemfile",
+    "Gemfile.lock",
+    "gulpfile.js",
+    "node_modules",
+    "package.json",
+  ]

@@ -1,0 +1,21 @@
+- name: GitHub
+  weight: 4
+
+- name: Git
+  weight: 5
+
+- name: Bitbucket
+  weight: 3
+
+- name: SQL
+  weight: 3
+
+- name: Bash
+  weight: 2
+
+- name: Docker
+  weight: 3
+
+- name: vscode
+  weight: 5
+
